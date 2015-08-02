@@ -5,3 +5,5 @@ stack
 hands  
 flip  
 example games with ai  
+scopa   
+truco
